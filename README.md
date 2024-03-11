@@ -11,7 +11,9 @@ Throughout my degree, I'm planning on taking 3 programming related courses:
 
 # My Degree
 
-At the [University of Auckland, Waipapa Taumata Rau](https://www.auckland.ac.nz/en.html) I started with studying Psychology but began studying Geography after my first semester. 
+At the [University of Auckland, Waipapa Taumata Rau](https://www.auckland.ac.nz/en.html) I started with studying Psychology but began studying Geography after my first semester.
+
+![UOA clocktower](https://www.ncuk.ac.uk/wp-content/uploads/2018/06/The-University-of-Auckland-Image-Gallery-1.jpg)
 
 ## Psychology or Geography
 
