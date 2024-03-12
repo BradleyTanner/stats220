@@ -4,10 +4,11 @@ This repository has been created for my **STATS 220** class.
 I have *zero* experience in programming so this is all new to me.
 
 Throughout my degree, I'm planning on taking 3 programming related courses:
-* STATS 220
-* GISCI 242*
-* GISCI 343*
-  - (GISCI stand for geographical information science)
+1. STATS 220
+2. GISCI 242*
+3. GISCI 343*
+  - *GISCI stand for geographical information science
+  - It includes software like QGIS and ArcGIS Pro
 
 # My Degree
 
